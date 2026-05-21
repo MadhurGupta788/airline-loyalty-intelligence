@@ -1,0 +1,10 @@
+data/raw/
+data/processed/
+__pycache__/
+*.py[cod]
+venv/
+*.egg-info/
+.ipynb_checkpoints/
+.env
+.DS_Store
+Thumbs.db
