@@ -17,7 +17,7 @@ st.set_page_config(
 )
 
 # ── Load data ───────────────────────────────────────────────────────────────
-BASE = Path.home() / "airline-loyalty-intelligence"
+BASE = Path(__file__).parent.parent
 PROC = BASE / "data" / "processed"
 
 @st.cache_data
