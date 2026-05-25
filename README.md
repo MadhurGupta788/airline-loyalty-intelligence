@@ -1,6 +1,7 @@
 # Unlocking Behavioral Intelligence in Airline Loyalty Programs
 
-> **Summer Projects '26 | Consulting & Analytics Club, IIT Guwahati**  
+> **Summer Projects '26 | Consulting & Analytics Club, IIT Guwahati** 
+> 🚀 **Live Dashboard:** [Click here](https://airline-loyalty-intelligenc-dmothd6t5ajsnyhsdcfqed.streamlit.app/) 
 > Track: Strategy | Data Analytics
 
 ---
